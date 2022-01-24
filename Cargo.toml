@@ -1,0 +1,10 @@
+[package]
+name = "Moscu"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jorge Vergés <jorge.verges.montano@gmail.com>"]
+description = "A blazing fast timetable analyzer"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
